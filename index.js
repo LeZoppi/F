@@ -1,5 +1,5 @@
 addEventListener("load", load);
-var servi = "https://github.com/LeZoppi/TiendaDeJuegosBackend/login";
+var servi = "https://tiendabackzoppi.herokuapp.com/login";
 
 function $(demo){
     return document.getElementById(demo);
